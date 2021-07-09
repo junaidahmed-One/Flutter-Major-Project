@@ -1,6 +1,20 @@
 # chat_app
 
-A new Flutter project.
+A chat application
+
+ScreenShots 
+![DelightSS](https://user-images.githubusercontent.com/82457752/125042328-54b95080-e0b7-11eb-8086-45ef94ab0e46.PNG)
+
+Video Demo
+
+
+https://user-images.githubusercontent.com/82457752/125042381-61d63f80-e0b7-11eb-8edb-44b634e167f6.mp4
+
+
+
+https://user-images.githubusercontent.com/82457752/125042406-68fd4d80-e0b7-11eb-8045-6b6faab16eab.mp4
+
+
 
 ## Getting Started
 
